@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namelessweirdo
 - 👀 I’m just here to discover the endless capabilities of the computer
 - 🌱 Relentlessly Chasing, Consistently Evolving
-- 💞️ Never stop learning, never stop growing, remember you can restart as many times as you want till you get to where you want to be
+- 💞️ Never stop learning, never stop growing, remember you can restart as many times as you want till you get to where you want to be.
 
 
 
